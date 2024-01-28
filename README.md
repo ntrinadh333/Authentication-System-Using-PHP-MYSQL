@@ -29,7 +29,7 @@ Steps to Run this :
 6. Make sure that user and root of your database are correct in the config.php file .
    In my case it user = root , password = root , host = localhost:3306 (mysql).
 7. check whether your apache server is started or not in xampp control panel.
-8. now open your browser and type http://localhost/Register and Login System/registration.jsp.
+8. now open your browser and type [http://localhost/Register and Login System/registration.jsp](http://localhost/Register%20and%20Login%20System/login.php)
 10. Test the site !!!
 
     
